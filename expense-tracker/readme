@@ -4,11 +4,13 @@ Project Structure:
 - Expense.java — Model class for expense entries
 - ExpenseManager.java — Handles logic for adding, saving, and loading expenses
 - ExpenseTrackerConsole.java — Console version of the app
+(The console version was the first iteration and contains some experimental code. The GUI version is the main working version.)
 - ExpenseTrackerGUI.java — JavaFX GUI version (Main entry point for GUI)
 
 To run the GUI:
 - Open `ExpenseTrackerGUI.java`
 - Run the `main` method
 - Requires JavaFX SDK (e.g., javafx-sdk-17) or Maven JavaFX dependencies
+
 
 Tested with Java 17 + JavaFX 17.
