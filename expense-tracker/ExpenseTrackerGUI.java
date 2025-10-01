@@ -1,5 +1,3 @@
-package com.expensetrackerfx;
-
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
@@ -87,4 +85,5 @@ public class ExpenseTrackerGUI extends Application {
         primaryStage.show();
     }
 }
+
 
