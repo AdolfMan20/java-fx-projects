@@ -1,5 +1,3 @@
-package com.expensetrackerfx;
-
 import java.time.LocalDate;
 import java.util.List;
 
@@ -61,3 +59,4 @@ public class Expense {
                 '}';
     }
 }
+
